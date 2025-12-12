@@ -1,0 +1,29 @@
+[38;5;15mSqliteException[0m: [1;38;5;9mSQLite Error 1: 'no such table: History'.[0m
+  [38;5;8mat[0m [38;5;12mvoid[0m [38;5;11mThrowExceptionForRC[0m[38;5;7m([0m[38;5;12mint[0m [38;5;7mrc[0m, [38;5;12msqlite3[0m [38;5;7mdb)[0m                                     
+  [38;5;8mat[0m [38;5;12m(ValueTuple<sqlite3_stmt, int> Statement)[0m [38;5;11mPrepareAndEnumerateStatements[0m[38;5;7m()[0m        
+  [38;5;8mat[0m [38;5;12mIEnumerable<sqlite3_stmt>[0m [38;5;11mGetStatements[0m[38;5;7m()[0m                                        
+  [38;5;8mat[0m [38;5;12mbool[0m [38;5;11mNextResult[0m[38;5;7m()[0m                                                                
+  [38;5;8mat[0m [38;5;12mSqliteDataReader[0m [38;5;11mExecuteReader[0m[38;5;7m([0m[38;5;12mCommandBehavior[0m [38;5;7mbehavior)[0m                         
+  [38;5;8mat[0m [38;5;12mTask<SqliteDataReader>[0m [38;5;11mExecuteReaderAsync[0m[38;5;7m([0m[38;5;12mCommandBehavior[0m [38;5;7mbehavior[0m,              
+     [38;5;12mCancellationToken[0m [38;5;7mcancellationToken)[0m                                             
+  [38;5;8mat[0m async [38;5;12mTask<DbDataReader>[0m [38;5;11mExecuteDbDataReaderAsync[0m[38;5;7m([0m[38;5;12mCommandBehavior[0m [38;5;7mbehavior[0m,      
+     [38;5;12mCancellationToken[0m [38;5;7mcancellationToken)[0m                                             
+  [38;5;8mat[0m async [38;5;12mTask<RelationalDataReader>[0m [38;5;11mExecuteReaderAsync[0m[38;5;7m([0m                             
+     [38;5;12mRelationalCommandParameterObject[0m [38;5;7mparameterObject[0m, [38;5;12mCancellationToken[0m              
+     [38;5;7mcancellationToken)[0m                                                               
+  [38;5;8mat[0m async [38;5;12mTask<RelationalDataReader>[0m [38;5;11mExecuteReaderAsync[0m[38;5;7m([0m                             
+     [38;5;12mRelationalCommandParameterObject[0m [38;5;7mparameterObject[0m, [38;5;12mCancellationToken[0m              
+     [38;5;7mcancellationToken)[0m                                                               
+  [38;5;8mat[0m async [38;5;12mTask<bool>[0m [38;5;11mInitializeReaderAsync[0m[38;5;7m([0m[38;5;12mAsyncEnumerator[0m [38;5;7menumerator[0m,               
+     [38;5;12mCancellationToken[0m [38;5;7mcancellationToken)[0m                                             
+  [38;5;8mat[0m async [38;5;12mValueTask<bool>[0m [38;5;11mMoveNextAsync[0m[38;5;7m()[0m                                            
+  [38;5;8mat[0m async [38;5;12mTask<TSource>[0m [38;5;11mSingleOrDefaultAsync<TSource>[0m[38;5;7m([0m[38;5;12mIAsyncEnumerable<TSource>[0m      
+     [38;5;7masyncEnumerable[0m, [38;5;12mCancellationToken[0m [38;5;7mcancellationToken)[0m                            
+  [38;5;8mat[0m async [38;5;12mTask<TSource>[0m [38;5;11mSingleOrDefaultAsync<TSource>[0m[38;5;7m([0m[38;5;12mIAsyncEnumerable<TSource>[0m      
+     [38;5;7masyncEnumerable[0m, [38;5;12mCancellationToken[0m [38;5;7mcancellationToken)[0m                            
+  [38;5;8mat[0m async [38;5;12mTask<History>[0m [38;5;11mGetLatestHistoryAsync[0m[38;5;7m()[0m [38;5;8min[0m [1;38;5;11mDbService.cs[0m[38;5;8m:[0m[38;5;12m386[0m                  
+  [38;5;8mat[0m async [38;5;12mTask<int>[0m [38;5;11mExecuteAsync[0m[38;5;7m([0m[38;5;12mCommandContext[0m [38;5;7mcontext[0m, [38;5;12mSettings[0m [38;5;7msettings)[0m [38;5;8min[0m       
+     [1;38;5;11mDbVersion.cs[0m[38;5;8m:[0m[38;5;12m32[0m                                                                  
+  [38;5;8mat[0m async [38;5;12mTask<int>[0m [38;5;11mExecute[0m[38;5;7m([0m[38;5;12mCommandTree[0m [38;5;7mleaf[0m, [38;5;12mCommandTree[0m [38;5;7mtree[0m, [38;5;12mCommandContext[0m       
+     [38;5;7mcontext[0m, [38;5;12mITypeResolver[0m [38;5;7mresolver[0m, [38;5;12mIConfiguration[0m [38;5;7mconfiguration)[0m [38;5;8min[0m                
+     [1;38;5;11mCommandExecutor.cs[0m[38;5;8m:[0m[38;5;12m252[0m                                                           
