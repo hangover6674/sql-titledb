@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<releases>
+    <release>
+        <name>Tencent Video</name>
+        <titleid>0100EB40103EA000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Taiko no Tatsujin</name>
+        <titleid>01005F1010E02000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Doraemon Ranch Story</name>
+        <titleid>0100DD7010E04000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ashe</name>
+        <titleid>01004F60118D8000</titleid>
+        <version></version>
+        <publisher>Heart Move Network</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>War Demon Mecha</name>
+        <titleid>01005CD0119C8000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rainbow falls</name>
+        <titleid>0100AA1011D50000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Tide</name>
+        <titleid>0100553011F7C000</titleid>
+        <version></version>
+        <publisher>Coconut Island Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Esports Legend</name>
+        <titleid>0100270011FBE000</titleid>
+        <version></version>
+        <publisher>Coconut Island Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Only Only Adventure</name>
+        <titleid>0100ABA011FC0000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Neon Abyss</name>
+        <titleid>01006D2012808000</titleid>
+        <version></version>
+        <publisher>Yu-Gi-Oh! Trading Card Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Unbelievable Crown</name>
+        <titleid>0100F50012878000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Jump rope challenge</name>
+        <titleid>010064B01295E000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fitness Ring Adventure</name>
+        <titleid>0100F6B011028000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Land of Evil Consequences</name>
+        <titleid>01001CD012FC4000</titleid>
+        <version></version>
+        <publisher>HeartMove Network</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Yo-kai Watch 4++</name>
+        <titleid>01000820133E0000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Miaos, run quickly!</name>
+        <titleid>0100BA3013FB6000</titleid>
+        <version></version>
+        <publisher>Hiss hiss</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Go to the moon</name>
+        <titleid>0100C760140FC000</titleid>
+        <version></version>
+        <publisher>HeartMove Network</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mario Tennis Aces</name>
+        <titleid>01001630116B6000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Yaosi's Handmade World</name>
+        <titleid>0100D6A00F972000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rayman: Legends</name>
+        <titleid>0100DC5014840000</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mario + Rabbids Sparks of Hope</name>
+        <titleid>0100AAD01485E000</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>39 days to Mars</name>
+        <titleid>01007A201115C000</titleid>
+        <version></version>
+        <publisher>East Pearl Cultural Development</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hardcore mecha</name>
+        <titleid>010094B01497E000</titleid>
+        <version></version>
+        <publisher>Lightning Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Moon Shadow Tower</name>
+        <titleid>0100F5A0149D6000</titleid>
+        <version></version>
+        <publisher>Coconut Island Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pokémon! Gotta Catch 'Em All! Pikachu!</name>
+        <titleid>010070300F50C000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pokémon Let's Go! Eevee</name>
+        <titleid>01006FB00F50E000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Mario Party</name>
+        <titleid>010086501008E000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rise of the Fenris</name>
+        <titleid>01009820151B6000</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Candle person</name>
+        <titleid>0100A77015430000</titleid>
+        <version></version>
+        <publisher>Candleman Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Unbelievable Dream Butterfly</name>
+        <titleid>0100D45015F98000</titleid>
+        <version></version>
+        <publisher>Teammates gaming</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fast rhythm beats</name>
+        <titleid>010053B016074000</titleid>
+        <version></version>
+        <publisher>Coconut Island Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mini Subway</name>
+        <titleid>01008A90164B4000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Doraemon Nobita's Digital Adventure</name>
+        <titleid>010036801752A000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Doraemon Nobita's English Adventure</name>
+        <titleid>0100188017564000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Clocker</name>
+        <titleid>010043301842E000</titleid>
+        <version></version>
+        <publisher>It's time to buy the game.</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rain Chronicle</name>
+        <titleid>0100FDA019884000</titleid>
+        <version></version>
+        <publisher>Rainbow Quiet Pavilion Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Power Punch Aerobic Boxing</name>
+        <titleid>0100AB3019A8C000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Uncontrolled primordial energy</name>
+        <titleid>0100E39019BF2000</titleid>
+        <version></version>
+        <publisher>Hangzhou Electric Soul</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Comes with navigation! Easy to use from the start. First game program design</name>
+        <titleid>0100587018F74000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Very hero</name>
+        <titleid>0100AE0019FAA000</titleid>
+        <version></version>
+        <publisher>East Pearl Cultural Development</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Astonishing Swordsman</name>
+        <titleid>0100F9801AB0A000</titleid>
+        <version></version>
+        <publisher>Dongpin Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Crazy Woodcutter</name>
+        <titleid>0100DD501AC86000</titleid>
+        <version></version>
+        <publisher>LinShu Network</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Brave Hack</name>
+        <titleid>0100AAE01B1B2000</titleid>
+        <version></version>
+        <publisher>Enjoyable game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Tencent Kuding - The First Programming Lesson</name>
+        <titleid>010048C01BA9A000</titleid>
+        <version></version>
+        <publisher>Tencent Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Heart Abyss Dream</name>
+        <titleid>01002A601BD24000</titleid>
+        <version></version>
+        <publisher>Netizen Saint Tang</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Potion Permit</name>
+        <titleid>01006A701D452000</titleid>
+        <version></version>
+        <publisher>Ox swims fruit</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Flexible Brain School</name>
+        <titleid>0100512017BB6000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Babel Tower Travel Guide</name>
+        <titleid>010084B01D6A2000</titleid>
+        <version></version>
+        <publisher>Thermal Pulse Games</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Angry Legion</name>
+        <titleid>01002B401E558000</titleid>
+        <version></version>
+        <publisher>Initial Part</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dr. Kawashima's Brain Training</name>
+        <titleid>0100804011430000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pokémon UNITE Beta</name>
+        <titleid>010094201E744000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Noodle person</name>
+        <titleid>01006AE01EB00000</titleid>
+        <version></version>
+        <publisher>Yu-Gi-Oh! Trading Card Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Kirby Star Allies</name>
+        <titleid>0100D92010664000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>New Pokémon Snap</name>
+        <titleid>01006DE015D14000</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Neon Abyss: Renegade Character Pack</name>
+        <titleid>01006D2012809001</titleid>
+        <version></version>
+        <publisher>Yu-Gi-Oh! Trading Card Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Modern Master "Rabbit" Character Bag</name>
+        <titleid>0100770010F6D001</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Neon Abyss Flame Team</name>
+        <titleid>01006D2012809002</titleid>
+        <version></version>
+        <publisher>Yu-Gi-Oh! Trading Card Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>A loving family of cattle</name>
+        <titleid>0100770010F6D003</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>New track, vol. 1</name>
+        <titleid>010075100E8ED001</titleid>
+        <version></version>
+        <publisher>Nintendo</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Neon Abyss: Time Traps</name>
+        <titleid>01006D2012809003</titleid>
+        <version></version>
+        <publisher>Yu-Gi-Oh! Trading Card Game</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hatsune Miku Collaboration DLC "Miku in Museland"</name>
+        <titleid>0100BA3013FB7001</titleid>
+        <version></version>
+        <publisher>Hiss hiss</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hatsune Miku Collaboration DLC 2 "Rin·Len's Mirrorland"</name>
+        <titleid>0100BA3013FB7002</titleid>
+        <version></version>
+        <publisher>Hiss hiss</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Record of Ragnarok: The Adventure of Fenrir</name>
+        <titleid>01009820151B7003</titleid>
+        <version></version>
+        <publisher>Green Han</publisher>
+        <region>CN</region>
+        <languages>zh</languages>
+    </release>
+</releases>
