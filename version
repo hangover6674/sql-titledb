@@ -1,1 +1,30 @@
-4cd9690606e64c69a706da8373cd10a6
+SqliteException: SQLite Error 1: 'no such table: History'.
+  at void ThrowExceptionForRC(int rc, sqlite3 db)                               
+  at (ValueTuple<sqlite3_stmt, int> Statement) PrepareAndEnumerateStatements()  
+  at IEnumerable<sqlite3_stmt> GetStatements()                                  
+  at bool NextResult()                                                          
+  at SqliteDataReader ExecuteReader(CommandBehavior behavior)                   
+  at Task<SqliteDataReader> ExecuteReaderAsync(CommandBehavior behavior,        
+     CancellationToken cancellationToken)                                       
+  at async Task<DbDataReader> ExecuteDbDataReaderAsync(CommandBehavior behavior,
+     CancellationToken cancellationToken)                                       
+  at async Task<RelationalDataReader> ExecuteReaderAsync(                       
+     RelationalCommandParameterObject parameterObject, CancellationToken        
+     cancellationToken)                                                         
+  at async Task<RelationalDataReader> ExecuteReaderAsync(                       
+     RelationalCommandParameterObject parameterObject, CancellationToken        
+     cancellationToken)                                                         
+  at async Task<bool> InitializeReaderAsync(AsyncEnumerator enumerator,         
+     CancellationToken cancellationToken)                                       
+  at async ValueTask<bool> MoveNextAsync()                                      
+  at async Task<TSource> SingleOrDefaultAsync<TSource>(IAsyncEnumerable<TSource>
+     asyncEnumerable, CancellationToken cancellationToken)                      
+  at async Task<TSource> SingleOrDefaultAsync<TSource>(IAsyncEnumerable<TSource>
+     asyncEnumerable, CancellationToken cancellationToken)                      
+  at async Task<History> GetLatestHistoryAsync() in DbService.cs:386            
+  at async Task<int> ExecuteAsync(CommandContext context, Settings settings,    
+     CancellationToken cancellationToken) in DbVersion.cs:32                    
+  at async Task<int> ExecuteAsync(CommandTree leaf, CommandTree tree,           
+     CommandContext context, ITypeResolver resolver, IConfiguration             
+     configuration, CancellationToken cancellationToken) in CommandExecutor.cs: 
+     260                                                                        
