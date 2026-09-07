@@ -1,0 +1,4083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<releases>
+    <release>
+        <name>OCTOPATH TRAVELER – The Path of a Wanderer</name>
+        <titleid>01000E200DC58000</titleid>
+        <version></version>
+        <publisher>SQUARE ENIX</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Is dungeon shooting a sideways scrolling shooter?</name>
+        <titleid>01005EB00F95C000</titleid>
+        <version></version>
+        <publisher>MAGES.</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Friday the 13th: The Game Ultimate Slasher Edition (Friday the 13th - Ultimate Slashing Edition)</name>
+        <titleid>010070200FBCC000</titleid>
+        <version></version>
+        <publisher>NatsumeAtari</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Trine 4: The Nightmare Prince</name>
+        <titleid>0100157010ECE000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Century Stone 3: Crafting &amp; Destruction</name>
+        <titleid>0100DC40121E6000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Skull</name>
+        <titleid>010061F012648000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Infliction: Extended Cut</name>
+        <titleid>01001D301296C000</titleid>
+        <version></version>
+        <publisher>Gamirror Games</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Cris Tales Crystal Chronicles</name>
+        <titleid>0100C4F012DDA000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ai Rui and the Secrets of the Seasons</name>
+        <titleid>0100C39012E20000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Remothered: Broken Porcelain</name>
+        <titleid>01000E10133B2000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Calamity Inverse Blade</name>
+        <titleid>0100E0C0138F4000</titleid>
+        <version></version>
+        <publisher>Plug In Digital</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Override 2: Super Mecha League</name>
+        <titleid>01002620142C2000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Danganronpa V3: Everyone's Annihilation New Semester Anniversary Edition</name>
+        <titleid>01000F5014620000</titleid>
+        <version></version>
+        <publisher>Spike Chunsoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Twisted spacetime</name>
+        <titleid>01004EE014F70000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>In Sound Mind</name>
+        <titleid>0100556014F74000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rustler Swift Horse Thief</name>
+        <titleid>010071B014F76000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Eve Chronicles (Smelter)</name>
+        <titleid>01007640158DE000</titleid>
+        <version></version>
+        <publisher>Gamirror Games</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Death End Rehearsal 2</name>
+        <titleid>0100865015948000</titleid>
+        <version></version>
+        <publisher>Game Source Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Monster Prom: XXL</name>
+        <titleid>01000B1015F7C000</titleid>
+        <version></version>
+        <publisher>WhisperGames</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit of the Flowers (Hoa)</name>
+        <titleid>010009E016108000</titleid>
+        <version></version>
+        <publisher>CE-Asia</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining flames</name>
+        <titleid>01003B7016C12000</titleid>
+        <version></version>
+        <publisher>Leoful</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Them's Fightin' Herds</name>
+        <titleid>01004FF0189FE000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Abandon ship</name>
+        <titleid>010013A018F04000</titleid>
+        <version></version>
+        <publisher>CE-Asia</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The House in Fata Morgana</name>
+        <titleid>0100D02019222000</titleid>
+        <version></version>
+        <publisher>WhisperGames</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Nickelodeon: All-Star Brawl – Ultimate Edition</name>
+        <titleid>010094901950C000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Eastern New World</name>
+        <titleid>010010601983A000</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Beastmen and Battleaxes</name>
+        <titleid>0100568019BCE000</titleid>
+        <version></version>
+        <publisher>Origamihero Games</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Frederica</name>
+        <titleid>010010501A07A000</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Is it? Yokai Shooting House</name>
+        <titleid>0100C0101A1D0000</titleid>
+        <version></version>
+        <publisher>DAEWON MEDIA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Amnesia: Later x Crowd</name>
+        <titleid>01004E601A434000</titleid>
+        <version></version>
+        <publisher>Game Source Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Splendorous and brilliant, my clan, modern era</name>
+        <titleid>010095301A43C000</titleid>
+        <version></version>
+        <publisher>Game Source Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Even if TEMPEST Twilight Witch So It Speaks</name>
+        <titleid>0100CB601A7BC000</titleid>
+        <version></version>
+        <publisher>JOYOLAND</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Heart Abyss Dream</name>
+        <titleid>01006C201AC52000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Teslagrad 2</name>
+        <titleid>01001F801AC54000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Teslagrad Remastered</name>
+        <titleid>010009701B192000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Alice's White and Black</name>
+        <titleid>0100FE701B38E000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>God of Rock</name>
+        <titleid>0100DB801B5CC000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Double Dragon: Double Dragon</name>
+        <titleid>010010401BC1A000</titleid>
+        <version></version>
+        <publisher>NiuGamer</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dancing With Demons My Song</name>
+        <titleid>010093601C066000</titleid>
+        <version></version>
+        <publisher>JOYOLAND</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ys X: Nordics Adventures</name>
+        <titleid>0100A0C01BED8000</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Seventh Realm</name>
+        <titleid>010077601C3B4000</titleid>
+        <version></version>
+        <publisher>WhisperGames</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Vairocana War Princess ~The Wind of a Single Tree~</name>
+        <titleid>01006C301CEFC000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimension YuXi War Machine Girls: Sisters vs. Sisters Digital Art Book</name>
+        <titleid>010004901D016000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimensional Game Neptunia: Machina Sisters vs Sisters</name>
+        <titleid>010021801D014000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimensional Girl Traveler: War Machine Girls Sisters vs Sisters Digital Soundtrack</name>
+        <titleid>01001BF01D050000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Snake Charm Night ~Trap of Musk~</name>
+        <titleid>0100D4701D46E000</titleid>
+        <version></version>
+        <publisher>JOYOLAND</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Quintessential Quintuplets ～Summer Memories Are Also Quintessential～</name>
+        <titleid>0100CBE01D70A000</titleid>
+        <version></version>
+        <publisher>Spike Chunsoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Quintessential Quintuplets ~Five Memories with You~</name>
+        <titleid>010087E01D70C000</titleid>
+        <version></version>
+        <publisher>Spike Chunsoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Xuanyuan Sword Participates in a Cloud and Mountain Beyond</name>
+        <titleid>010050101D8BA000</titleid>
+        <version></version>
+        <publisher>Gamirror Games</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Cute pet cat</name>
+        <titleid>0100DC201DA80000</titleid>
+        <version></version>
+        <publisher>Max Interactive Studio</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimension YuXi War Machines Girls Sisters vs Sisters Digital Deluxe Edition</name>
+        <titleid>010021801D014000</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Your Creature: Monster</name>
+        <titleid>0100D6701DC20000</titleid>
+        <version></version>
+        <publisher>MazM</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Smurfs Kart</name>
+        <titleid>0100FDA01DC68000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Idol☆March</name>
+        <titleid>01006E701E1B0000</titleid>
+        <version></version>
+        <publisher>Game Source Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Clanpool Tower</name>
+        <titleid>0100EDA01F154000</titleid>
+        <version></version>
+        <publisher>eastasiasoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Triangle and X's Riddle</name>
+        <titleid>010023001F338000</titleid>
+        <version></version>
+        <publisher>TT</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Legend of Sword and Fairy</name>
+        <titleid>0100CF101E99A000</titleid>
+        <version></version>
+        <publisher>Softstar</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>UFO Robot Grendizer: Feast of the Wolves</name>
+        <titleid>0100AF701FB2E000</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Floating City Beyond the World of Glass Dreams and Bubbles</name>
+        <titleid>0100DC701FF06000</titleid>
+        <version></version>
+        <publisher>Game Source Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mistonia's Winged Hope - The Lost Delight-</name>
+        <titleid>010068D0209E0000</titleid>
+        <version></version>
+        <publisher>JOYOLAND</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name> Game 16 tile mahjong </name>
+        <titleid>01008F1022424000</titleid>
+        <version></version>
+        <publisher>Webi &amp; Neti</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Early Unlockable Playable Character "Kenny"</name>
+        <titleid>0100DBB004151059</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - White Soul Battle Suit U &amp; White Soul Battle Suit K</name>
+        <titleid>010071D00EBFB001</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - Lingerie "Painted Dark Night" </name>
+        <titleid>010071D00EBFB00E</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Tenshi Kabuto"</name>
+        <titleid>010071D00EBFB005</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Minami Helmet" </name>
+        <titleid>010071D00EBFB006</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Kira Kabuto"</name>
+        <titleid>010071D00EBFB007</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Sand and Helmet"</name>
+        <titleid>010071D00EBFB008</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Eri Helmet"</name>
+        <titleid>010071D00EBFB009</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>GUN GUN PIXIES - "Initial Goddess Unsealing Permit"</name>
+        <titleid>010071D00EBFB00A</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>DLC bundle</name>
+        <titleid>0100A9700F27B320</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free trial kit 1</name>
+        <titleid>0100AAD00FBE1013</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Bottled potion set</name>
+        <titleid>0100AAD00FBE1015</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mature Fruit Set</name>
+        <titleid>0100AAD00FBE1016</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spiritual Medicine Set (1)</name>
+        <titleid>0100AAD00FBE1018</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (2)</name>
+        <titleid>0100AAD00FBE1019</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (3)</name>
+        <titleid>0100AAD00FBE101A</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (4)</name>
+        <titleid>0100AAD00FBE101B</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (5)</name>
+        <titleid>0100AAD00FBE101C</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Medicine Set (1)</name>
+        <titleid>0100AAD00FBE101D</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Medicine Set (2)</name>
+        <titleid>0100AAD00FBE101E</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Remedy Set (3)</name>
+        <titleid>0100AAD00FBE101F</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Potion Set (4)</name>
+        <titleid>0100AAD00FBE1020</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Recipe Set (5)</name>
+        <titleid>0100AAD00FBE1021</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Material Kit</name>
+        <titleid>0100AAD00FBE1023</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Convenient accessory kit</name>
+        <titleid>0100AAD00FBE1025</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Value Ingredient Set</name>
+        <titleid>0100AAD00FBE1024</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>High-End Accessory Kit</name>
+        <titleid>0100AAD00FBE1026</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Drifter Wins at the Starting Line Bundle</name>
+        <titleid>0100AAD00FBE1022</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fishing bait rig set (1)</name>
+        <titleid>0100AAD00FBE1027</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fishing bait set (2)</name>
+        <titleid>0100AAD00FBE1028</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fishing Bait Tackle Set (3)</name>
+        <titleid>0100AAD00FBE1029</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Abnormal State Treatment Kit</name>
+        <titleid>0100AAD00FBE1017</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free trial set 2</name>
+        <titleid>0100AAD00FBE1014</titleid>
+        <version></version>
+        <publisher>NIHONICHI</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Tools Unknown Fire Treasure Sale</name>
+        <titleid>01005D10128D3001</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional item experience gain action</name>
+        <titleid>01005D10128D3002</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional character Nipesuinu Swimsuit Ver.</name>
+        <titleid>01005D10128D3003</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Story Part 3 "Broken Chapter: Rohan"</name>
+        <titleid>01005D10128D3007</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Plot Part 4 "Severed Chapters, Malicious"</name>
+        <titleid>01005D10128D3008</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Storyline Part 5: "Fragmented Sirius"</name>
+        <titleid>01005D10128D3009</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Added Difficulty 'MERCIFUL'</name>
+        <titleid>010010D011ED1001</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Young Master's Mercy</name>
+        <titleid>010010D011ED1006</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The master's expectations</name>
+        <titleid>010010D011ED1007</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Swirling Vortex Realm BGM Change Pack 1 True Goddess Rebirth</name>
+        <titleid>010010D011ED1003</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Whirlpool World BGM Change Pack 2 True Goddess Reincarnation II</name>
+        <titleid>010010D011ED1004</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Whirlpool World BGM Change Pack 3 True Goddess Reincarnation IV</name>
+        <titleid>010010D011ED1005</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Whirlpool Realm BGM Change Pack 4 True Goddess Reincarnation IV FINAL</name>
+        <titleid>010010D011ED1008</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Black Dragon Knight Pharrot + Classic Card Pack</name>
+        <titleid>01004BE012955259</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Screenplay "The Fall of Shu Han"</name>
+        <titleid>0100CD4012DCB02A</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Romance of the Three Kingdoms 14 Season Pass</name>
+        <titleid>0100CD4012DCB002</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Editing Function Fourth Wave</name>
+        <titleid>0100CD4012DCB004</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Script "Battle of Yi Ling"</name>
+        <titleid>0100CD4012DCB02B</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Screenplay "The Han Dynasty Trembles" &amp; Event Combinations</name>
+        <titleid>0100CD4012DCB003</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Conquest Chronicle Mode Scenario 1 "Liu Bei's Entry into Shu"</name>
+        <titleid>0100CD4012DCB005</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Screenplay "Cao Cao's Rise" &amp; Event Combination</name>
+        <titleid>0100CD4012DCB006</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Domination Chronicle Mode Exclusive Scenario 2nd Bullet "Fierce Generals Sweep"</name>
+        <titleid>0100CD4012DCB007</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Romance of the Three Kingdoms 12" general face CG combination</name>
+        <titleid>0100CD4012DCB008</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dominance War Chronicle Mode Exclusive Scenario 3rd Bullet "Battle for Hebei Pacification"</name>
+        <titleid>0100CD4012DCB009</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Sun Ce Advance Event Combination</name>
+        <titleid>0100CD4012DCB00A</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Watercolor style CG combination of Wei, Wu and Shu generals' faces</name>
+        <titleid>0100CD4012DCB00B</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Play Script "Conquest of Nanman" &amp; Event Combination</name>
+        <titleid>0100CD4012DCB00C</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Conquest Chronicles Mode Original Script 4th Edition "Wu Conquest Battle"</name>
+        <titleid>0100CD4012DCB00D</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Three Kingdoms 13 General Facial CG Combination Vol. 2</name>
+        <titleid>0100CD4012DCB00F</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Domination Chronicle Mode Exclusive Scenario 5th Bullet "Battle for Yan Province"</name>
+        <titleid>0100CD4012DCB010</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The "Zhuge Liang's Northern Expeditions" Incident Combination</name>
+        <titleid>0100CD4012DCB00E</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Pacification of Jingnan Incident combination</name>
+        <titleid>0100CD4012DCB011</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Classic Rock Song Pack</name>
+        <titleid>01003AE011E5900B</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Best of 80's Vol. 3 Song Pack</name>
+        <titleid>01003AE011E5900A</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Country Hits Song Pack</name>
+        <titleid>01003AE011E59009</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Best of 90's Vol. 2 Song Pack</name>
+        <titleid>01003AE011E59008</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Best of 80's Vol. 2 Song Pack</name>
+        <titleid>01003AE011E59007</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Best of 90's Vol. 1 Song Pack</name>
+        <titleid>01003AE011E59006</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Legendary Hits Song Pack</name>
+        <titleid>01003AE011E59005</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Party Classics Vol. 2 Song Pack</name>
+        <titleid>01003AE011E59004</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Chart Hits Song Pack</name>
+        <titleid>01003AE011E59003</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Best of 80's Vol. 1 Song Pack</name>
+        <titleid>01003AE011E59002</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2021 Chinese Version - Party Classics Vol. 1 Song Pack</name>
+        <titleid>01003AE011E59001</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Pass Season 1</name>
+        <titleid>01004BE012955065</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Match Certificate +10 Level Season 1</name>
+        <titleid>01004BE0129550C9</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Awakened Flame - Yang Yu</name>
+        <titleid>01004BE01295512C</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Symphony of Melodies" Mei-son Skin</name>
+        <titleid>01004BE01295512D</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Ma Yi" skin for the main fighter</name>
+        <titleid>01004BE01295512E</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Mystic Maiden" Fighter Form</name>
+        <titleid>01004BE01295512F</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Holy Priest" Saint-Ya Kura Appearance</name>
+        <titleid>01004BE012955130</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Main Fighter Design" "Takuma Yagura"</name>
+        <titleid>01004BE012955131</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Vivian Justice" champion skin</name>
+        <titleid>01004BE012955132</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Vanessa Justyne" Battleform</name>
+        <titleid>01004BE012955133</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Zhengshi Coup" Screenplay</name>
+        <titleid>0100CD4012DCB01F</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Atelier Ryza Joint Project Warrior Data</name>
+        <titleid>0100CD4012DCB021</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Script "Battle of Tongguan" &amp; Event Combination</name>
+        <titleid>0100CD4012DCB013</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Editing function first wave</name>
+        <titleid>0100CD4012DCB014</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Screenplay "Battle of Lü Bu" &amp; Event Combination</name>
+        <titleid>0100CD4012DCB015</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Editing function second wave</name>
+        <titleid>0100CD4012DCB016</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Difficulty "Super" &amp; Script Setting Combination</name>
+        <titleid>0100CD4012DCB017</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Script "Hebei Conflict" &amp; Event Combinations</name>
+        <titleid>0100CD4012DCB018</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Script "Battle of Fei River" &amp; Event Combination</name>
+        <titleid>0100CD4012DCB019</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Editing function third wave</name>
+        <titleid>0100CD4012DCB01A</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Script "Family Name Feud"</name>
+        <titleid>0100CD4012DCB01B</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Playwright "Huang Tian Dang Li"</name>
+        <titleid>0100CD4012DCB01C</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Drama Script "The Hero of Hebei, Gongsun Zan" </name>
+        <titleid>0100CD4012DCB01D</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Difficulty "Top Class" &amp; Script Setting Combination</name>
+        <titleid>0100CD4012DCB01E</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Legend of the Galactic Heroes" Collaboration First Wave "Reinhard" and "Yang" General Data</name>
+        <titleid>0100CD4012DCB022</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Legend of Galactic Heroes" collaboration first wave "Ghilfiels" and "Julian" general data</name>
+        <titleid>0100CD4012DCB023</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Galaxy Heroes Legend Collaboration Part 2 "Galactic Empire vol.1" Warrior Data</name>
+        <titleid>0100CD4012DCB024</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Legend of the Galactic Heroes" Collaboration Third Wave "Free Planets Alliance vol. 1" Commander Data</name>
+        <titleid>0100CD4012DCB025</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>'Romance of the Three Kingdoms 13' General Facial CG Combinations</name>
+        <titleid>0100CD4012DCB012</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Legend of the Galactic Heroes" Collaboration Fourth &amp; Fifth Waves "Galactic Empire vol. 2" &amp; "Free Planets Alliance vol. 2" Warlord Data</name>
+        <titleid>0100CD4012DCB026</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Legend of Galactic Heroes" Collaboration Sixth Wave Script "Eternal Dream"</name>
+        <titleid>0100CD4012DCB027</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Ancient Warrior" General Data Combinations</name>
+        <titleid>0100CD4012DCB020</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sazhou Three Kingdoms Chronicles Collaborative Masterpiece Materials</name>
+        <titleid>0100CD4012DCB029</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Match Certificate Season 2</name>
+        <titleid>01004BE012955066</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Certificate +10 Levels Season 2</name>
+        <titleid>01004BE0129550CA</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"The Victorious Path: Kagayaki" Skin</name>
+        <titleid>01004BE012955134</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The main character's design "Time Dominator Kai" </name>
+        <titleid>01004BE012955135</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Main Fighter" Skin "Aya"</name>
+        <titleid>01004BE012955136</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main Fighter Appearance "Masked Player"</name>
+        <titleid>01004BE012955137</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main Fighter Appearance "Tanabe Masaru"</name>
+        <titleid>01004BE012955138</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The main fighter model "Zaisanji Masaki"</name>
+        <titleid>01004BE012955139</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Serpent God Trickster" Fighter Design</name>
+        <titleid>01004BE01295513A</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Warrior's design "Kuki Toho"</name>
+        <titleid>01004BE01295513B</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Certificate Season 3</name>
+        <titleid>01004BE012955067</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Combat Certificate +10 Level Season 3</name>
+        <titleid>01004BE0129550CB</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main Fighter Skin "Heavenly Messenger · Kagura"</name>
+        <titleid>01004BE01295513C</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Dark Night Emperor" Luxia Appearance</name>
+        <titleid>01004BE01295513D</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main Fighter Appearance "Shadow Knight I"</name>
+        <titleid>01004BE01295513E</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The main fighter design "Kobayashi"</name>
+        <titleid>01004BE01295513F</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Leon Oransin" Fighter Design</name>
+        <titleid>01004BE012955140</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The main fighter design "Saomoto Mio"</name>
+        <titleid>01004BE012955141</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The main character design "King of Shadow Poems: Mio" </name>
+        <titleid>01004BE012955142</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Match Card - Legendary Card</name>
+        <titleid>01004BE012955069</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Card Legendary Card +10 Level</name>
+        <titleid>01004BE0129550CD</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Pass Season 4</name>
+        <titleid>01004BE012955068</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Platinum Battle Ticket +10 Levels Season 4</name>
+        <titleid>01004BE0129550CC</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Ruler of the Underworld" Alice</name>
+        <titleid>01004BE012955143</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Maise" Fighter Skin</name>
+        <titleid>01004BE012955144</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Mushitani Shiro" Fighter Design</name>
+        <titleid>01004BE012955145</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"The Warmonger" Skin "Margarette d'Worlu" </name>
+        <titleid>01004BE012955146</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Dark Knight VI" Battle Form</name>
+        <titleid>01004BE012955147</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Atelier Ryza 2: Lost Legends &amp; the Secret Fairy" Collaboration Warrior Data</name>
+        <titleid>0100CD4012DCB02E</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ultraman Superhero DLC</name>
+        <titleid>01002620142C3002</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Bemura Superman DLC</name>
+        <titleid>01002620142C3003</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Black King Superman DLC</name>
+        <titleid>01002620142C3005</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Morohoshi Dan Superhero DLC</name>
+        <titleid>01002620142C3004</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Special Costume "Mitsuhide Akechi"</name>
+        <titleid>010089A0117D5004</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>'DEAD OR ALIVE Xtreme Venus Vacation' Collaboration Warrior Data</name>
+        <titleid>0100CD4012DCB02D</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stage Set 1</name>
+        <titleid>010050101435B006</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stages Set 2</name>
+        <titleid>010050101435B007</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hololive VTubers 'Kaede, Sister Claire and Debidebi Debiru' collaborate on warrior data</name>
+        <titleid>0100CD4012DCB02F</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>KT "Romance of the Three Kingdoms" series character face CG combination ('Romance of the Three Kingdoms: Power')</name>
+        <titleid>0100CD4012DCB030</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Homage Stage Set 3</name>
+        <titleid>010050101435B008</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Party Classics Vol. 1 Song Pack</name>
+        <titleid>01009030149C1001</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 80's Vol. 1 Song Pack</name>
+        <titleid>01009030149C1002</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Chart Hits Song Pack</name>
+        <titleid>01009030149C1003</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Party Classics Vol. 2 Song Pack</name>
+        <titleid>01009030149C1004</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Legendary Hits Vol. 1 Song Pack</name>
+        <titleid>01009030149C1005</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 90's Vol. 1 Song Pack</name>
+        <titleid>01009030149C1006</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 80's Vol. 2 Song Pack</name>
+        <titleid>01009030149C1007</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 90's Vol. 2 Song Pack</name>
+        <titleid>01009030149C1008</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Country Hits Song Pack</name>
+        <titleid>01009030149C1009</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 80's Vol. 3 Song Pass</name>
+        <titleid>01009030149C100A</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Edition Classic Rock Song Pack</name>
+        <titleid>01009030149C100B</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Best of 90's Vol. 3 Song Pack</name>
+        <titleid>01009030149C100D</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Let's Sing 2022 Chinese Version Legendary Hits Vol. 2 Song Pack</name>
+        <titleid>01009030149C100C</titleid>
+        <version></version>
+        <publisher>PLAION</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Trails of Cold Steel III - Costume "Tols General School Uniform"</name>
+        <titleid>010044D015F4B00F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Legend of Heroes: Trails of Cold Steel III - Costume "Charming Blue" </name>
+        <titleid>010044D015F4B002</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Legend of Heroes: Trails of Cold Steel III - Costume "Crossbell Cheer Squad!"</name>
+        <titleid>010044D015F4B003</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Legend of Heroes: Trails of Cold Steel III - Costume "Trails of Cold Steel II Rean Travel Outfit"</name>
+        <titleid>010044D015F4B008</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Legend of Heroes: Trails of Cold Steel III - Costume "Cat Black" </name>
+        <titleid>010044D015F4B001</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stage Set 4</name>
+        <titleid>010050101435B00A</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Added difficulty "Safety"</name>
+        <titleid>010038D0133C3001</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Music: Waltz of Wealth</name>
+        <titleid>010038D0133C3002</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Music・Dance of Experience</name>
+        <titleid>010038D0133C3003</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Ceremony: Dance of Divine Will</name>
+        <titleid>010038D0133C3004</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Goddess's Cultivation</name>
+        <titleid>010038D0133C3005</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Queen's Gambit</name>
+        <titleid>010038D0133C3006</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The doctor was the first and last petitioner.</name>
+        <titleid>010038D0133C3007</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Manura and nine demons</name>
+        <titleid>010038D0133C3008</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Bonus DLC</name>
+        <titleid>01001E50141BD00C</titleid>
+        <version></version>
+        <publisher>BANDAI NAMCO Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Christmas prankster set</name>
+        <titleid>010026E015097018</titleid>
+        <version></version>
+        <publisher>ARC SYSTEM WORKS</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main City Scenery "Flower Appreciation"</name>
+        <titleid>01001160167B1041</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main City Scenery "Viewing Flowers at Night"</name>
+        <titleid>01001160167B1042</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Scenes of the Main City - "Rainy Season"</name>
+        <titleid>01001160167B1043</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main City Scenery "Danfeng"</name>
+        <titleid>01001160167B1044</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Main City Scenery "Admiring Snow"</name>
+        <titleid>01001160167B1045</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Music Track "Battle -Touken Ranbu Musou-"</name>
+        <titleid>01001160167B1061</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Music Track "Memories of Aonohara -Touken Ranbu Musou-"</name>
+        <titleid>01001160167B1063</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Music "Osaka Winter Campaign Great General Battle -Touken Ranbu Musou-"</name>
+        <titleid>01001160167B1062</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional Music "Main Fortress - Touken Ranbu Musou-"</name>
+        <titleid>01001160167B1064</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Additional music "Naikin - Touken Ranbu Musou-"</name>
+        <titleid>01001160167B1065</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Office wear "Mikazuki Munechika"</name>
+        <titleid>01001160167B1001</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Indoor Staff Uniform "Chizomuramasa"</name>
+        <titleid>01001160167B1002</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Office wear "Dragonfly Cutter"</name>
+        <titleid>01001160167B1003</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Office Casual Wear "Utamaro Kanetada"</name>
+        <titleid>01001160167B1004</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"One revival at a time": Administrative Staff Uniform</name>
+        <titleid>01001160167B1005</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Office Wind Clothing" "Nishiki Tofujiro"</name>
+        <titleid>01001160167B1006</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Inside Staff Uniform" "Hizashi Masamune"</name>
+        <titleid>01001160167B1007</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Press Cut Long Valley" for Indoor Staff Uniforms</name>
+        <titleid>01001160167B1008</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Indoor Staff Uniform" "Yakuri Tōshirō"</name>
+        <titleid>01001160167B1009</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Indoor Staff Uniform "Bar-Shaped Cleaver"</name>
+        <titleid>01001160167B100A</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Inside Staff Casual Wear", "Tsurumaru Kun永"</name>
+        <titleid>01001160167B100B</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Indoor attire" - "Candlelight Loyalty"</name>
+        <titleid>01001160167B100C</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Indoor Staff Uniform "Dainibu-Garra""</name>
+        <titleid>01001160167B100D</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Indoor Staff Uniform "Mountain Goblin Cut Kunishige" </name>
+        <titleid>01001160167B100E</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Indoor Staff Uniform "Mountain Lady Cut Nagayoshi" "</name>
+        <titleid>01001160167B100F</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Face Reflection" Indoor Staff Uniform</name>
+        <titleid>01001160167B1010</titleid>
+        <version></version>
+        <publisher>DMM GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stage Set 5</name>
+        <titleid>010050101435B00B</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stage Set 6</name>
+        <titleid>010050101435B00C</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Early Unlock Keys "Demon Slayer Academy Giyu Tomioka" "Demon Slayer Academy Shinobu Kocho"</name>
+        <titleid>0100309016E7B003</titleid>
+        <version></version>
+        <publisher>SEGA</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - ADDITIONAL UNIT OFX-X MARIKO</name>
+        <titleid>010050101435B00D</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Additional Craft R-9uso799</name>
+        <titleid>010050101435B00E</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Little Sugar Sister Esports Goddess Outfit</name>
+        <titleid>01009720121AB001</titleid>
+        <version></version>
+        <publisher>Leoful</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Homage Stage Set 7</name>
+        <titleid>010050101435B010</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Urashima Taro Set (with Fish Summoning Fishing Rod)</name>
+        <titleid>01003550187DF002</titleid>
+        <version></version>
+        <publisher>BANDAI NAMCO Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Diving Gear Set (Includes Fish Summoning Fishing Rod)</name>
+        <titleid>01003550187DF004</titleid>
+        <version></version>
+        <publisher>BANDAI NAMCO Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Easy Peasy Big Fish Summoning Set</name>
+        <titleid>01003550187DF003</titleid>
+        <version></version>
+        <publisher>BANDAI NAMCO Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-Type Final 2 - Tribute Stage Set 8</name>
+        <titleid>010050101435B011</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mario + Rabbids Sparks of Hope - Rabbid Mario Pit Stoppers Skin</name>
+        <titleid>0100FC60185AF003</titleid>
+        <version></version>
+        <publisher>Ubisoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mario + Rabbids Sparks of Hope - Rabbid Peach Bwahrkura Skin</name>
+        <titleid>0100FC60185AF004</titleid>
+        <version></version>
+        <publisher>Ubisoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pirate Costume Set</name>
+        <titleid>01003550187DF001</titleid>
+        <version></version>
+        <publisher>BANDAI NAMCO Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>R-TYPE FINAL 2 - Tribute Stage Set 9</name>
+        <titleid>010050101435B012</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>New Driver Cheer Package</name>
+        <titleid>010050101435B013</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>TFH - Extra Role #1 Texas</name>
+        <titleid>01004FF0189FF002</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name> TFH - Extra Role #2 Stronghoof </name>
+        <titleid>01004FF0189FF003</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>TFH - Extra Character #3 Nidra</name>
+        <titleid>01004FF0189FF004</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>TFH - Extra Character #4 White Crane</name>
+        <titleid>01004FF0189FF005</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Season 1 Pass - Palette Pack and "Pixel Lobby" Accessories</name>
+        <titleid>01004FF0189FF001</titleid>
+        <version></version>
+        <publisher>Ripples</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Limited accessories for Ryoka, Kaisaku and Nagashiro: "Spirit Stone Headband" &amp; "Fox Mask"</name>
+        <titleid>010091B01A439004</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Limited outfit for Ryuuko Matoi "Mary Rose's Clothes" </name>
+        <titleid>010091B01A439003</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Zero ~ Mask of Lunar Eclipse ~" Digital Art Setting Collection</name>
+        <titleid>010091B01A439001</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Oboro Moon Island Night Banquet Outfit Set</name>
+        <titleid>010091B01A439002</titleid>
+        <version></version>
+        <publisher>KOEI TECMO GAMES</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Vagrant's weapon and gemstone combination</name>
+        <titleid>010010501A07B008</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Witcher 3: Wild Hunt - Language Pack</name>
+        <titleid>010019C00E9CD006</titleid>
+        <version></version>
+        <publisher>CD PROJEKT</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Witcher 3: Wild Hunt - Language Pack</name>
+        <titleid>010019C00E9CD007</titleid>
+        <version></version>
+        <publisher>CD PROJEKT</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pikachu Lovers</name>
+        <titleid>0100A0C01BED9001</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Legendary Kurilia Armor</name>
+        <titleid>0100A0C01BED9005</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Summer Adventure</name>
+        <titleid>0100A0C01BED9014</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Azure Mermaid</name>
+        <titleid>0100A0C01BED9015</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Endless Journey</name>
+        <titleid>0100A0C01BED9017</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The valiant female captain</name>
+        <titleid>0100A0C01BED9018</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Sacred Beast 'Dew' Disguise Set</name>
+        <titleid>0100A0C01BED9032</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Protective Eye Decoration Set · Cool</name>
+        <titleid>0100A0C01BED9033</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Eye Protection Decoration Set · Joy</name>
+        <titleid>0100A0C01BED9034</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ear Decoration Set</name>
+        <titleid>0100A0C01BED9035</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hair extensions &amp; dyeing set · Vivid</name>
+        <titleid>0100A0C01BED9036</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hair Extension &amp; Dyeing Set · Wild</name>
+        <titleid>0100A0C01BED9037</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mini Standee Case Set</name>
+        <titleid>0100A0C01BED9038</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Headwear Decoration Set</name>
+        <titleid>0100A0C01BED9039</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Horn Ornament Set</name>
+        <titleid>0100A0C01BED903A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Scarf set</name>
+        <titleid>0100A0C01BED903B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shield Set</name>
+        <titleid>0100A0C01BED903C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Backpack Marine Life Set</name>
+        <titleid>0100A0C01BED903D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ironclad Battleship Set</name>
+        <titleid>0100A0C01BED9064</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Nosferatu Ship Set</name>
+        <titleid>0100A0C01BED9065</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Pikachu Number Set</name>
+        <titleid>0100A0C01BED9066</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Deck decoration kit</name>
+        <titleid>0100A0C01BED9067</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ship Sail &amp; Hull Color Set</name>
+        <titleid>0100A0C01BED9068</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Character Sail Set</name>
+        <titleid>0100A0C01BED9069</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Character Banner Set</name>
+        <titleid>0100A0C01BED906B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Set A</name>
+        <titleid>0100A0C01BED90C8</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Kit B</name>
+        <titleid>0100A0C01BED90C9</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Adventure Assist Set</name>
+        <titleid>0100A0C01BED90CA</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Health tonic set</name>
+        <titleid>0100A0C01BED90CB</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Adventure Bento Set</name>
+        <titleid>0100A0C01BED90CC</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spiritual Medicine Set (1)</name>
+        <titleid>0100A0C01BED90CD</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (2)</name>
+        <titleid>0100A0C01BED90CE</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spiritual Medicine Set (3)</name>
+        <titleid>0100A0C01BED90CF</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (4)</name>
+        <titleid>0100A0C01BED90D0</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Medicine Set (5)</name>
+        <titleid>0100A0C01BED90D1</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Medicine Set (1)</name>
+        <titleid>0100A0C01BED90D2</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Remedy Kit (2)</name>
+        <titleid>0100A0C01BED90D3</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Secret Recipe Set (3)</name>
+        <titleid>0100A0C01BED90D4</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Crystal Set (1)</name>
+        <titleid>0100A0C01BED90D5</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Crystal Set (2)</name>
+        <titleid>0100A0C01BED90D6</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Crystal Stone Set (3)</name>
+        <titleid>0100A0C01BED90D7</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Anomaly State Elimination Drug Kit</name>
+        <titleid>0100A0C01BED90D8</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Navigation Tool Kit</name>
+        <titleid>0100A0C01BED90D9</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Basic Material Kit (1)</name>
+        <titleid>0100A0C01BED90DA</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Basic Material Kit (2)</name>
+        <titleid>0100A0C01BED90DB</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Basic Material Set (3)</name>
+        <titleid>0100A0C01BED90DC</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rare Material Set A</name>
+        <titleid>0100A0C01BED90DD</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rare Material Set B</name>
+        <titleid>0100A0C01BED90DE</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rare Materials Bundle C</name>
+        <titleid>0100A0C01BED90DF</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rare Materials Set D</name>
+        <titleid>0100A0C01BED90E0</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mana Material Set I</name>
+        <titleid>0100A0C01BED90E1</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mana Material Set II</name>
+        <titleid>0100A0C01BED90E2</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Mana Material Set III</name>
+        <titleid>0100A0C01BED90E3</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fishing bait set</name>
+        <titleid>0100A0C01BED90E4</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fishing Bait G Set</name>
+        <titleid>0100A0C01BED90E5</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Start Dash Bundle X</name>
+        <titleid>0100A0C01BED90E6</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Spirit Garment Set</name>
+        <titleid>0100A0C01BED90E7</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ma type seed LvⅠ set</name>
+        <titleid>0100A0C01BED90E8</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>That kind of seed LvⅡ set</name>
+        <titleid>0100A0C01BED90E9</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Maru type seed Lv III set</name>
+        <titleid>0100A0C01BED90EA</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dark ma kind seed set</name>
+        <titleid>0100A0C01BED90EB</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The warrior's weapon and magic stone combine</name>
+        <titleid>010010501A07B009</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The thief's weapon and magic stone combination</name>
+        <titleid>010010501A07B00A</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The archer's weapon combined with a magic stone</name>
+        <titleid>010010501A07B00B</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The farmer's weapon and magic stone combination</name>
+        <titleid>010010501A07B00C</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The fighter's weapon and magic stone combination</name>
+        <titleid>010010501A07B00D</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The mage's weapon and the combination of magic stones</name>
+        <titleid>010010501A07B00E</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Quick Start Tool Kit</name>
+        <titleid>010010501A07B00F</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimensional Yusei War Machine Girls Sisters vs Sisters - Peace of Mind Adventure Item Pack</name>
+        <titleid>010021801D015002</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Super Dimensional Swimsuit Yuxi Battle Mecha Girl Sisters vs Sisters - Swimsuit Set</name>
+        <titleid>010021801D015001</titleid>
+        <version></version>
+        <publisher>JUSTDAN</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original swimsuit・Philly</name>
+        <titleid>0100F8A01D069016</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original Swimsuit・Aaron</name>
+        <titleid>0100F8A01D069017</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original swimsuit - Lilisette</name>
+        <titleid>0100F8A01D069018</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original Swimwear - Cartel</name>
+        <titleid>0100F8A01D069019</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original Swimwear - Judith</name>
+        <titleid>0100F8A01D06901A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Original Swimsuit・Belgrade</name>
+        <titleid>0100F8A01D06901B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Aramis Junior High School Uniform Set</name>
+        <titleid>0100F8A01D06901C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Anneliese used an old Calvard Kingdom-style dress.</name>
+        <titleid>0100F8A01D069005</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Judith uses "Golden Blood" costume</name>
+        <titleid>0100F8A01D06900C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Lisette with *Marudok Company Combat Maid Outfit</name>
+        <titleid>0100F8A01D069001</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fili using・Kruger witch outfit</name>
+        <titleid>0100F8A01D069002</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Eyeglass case set</name>
+        <titleid>0100F8A01D069032</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sunglasses case set</name>
+        <titleid>0100F8A01D069033</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Reinforced Mask Set</name>
+        <titleid>0100F8A01D069035</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Backpack cover set</name>
+        <titleid>0100F8A01D069036</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Swimming ring set</name>
+        <titleid>0100F8A01D069037</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Special effects set</name>
+        <titleid>0100F8A01D06903C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name> Xipha Metal Case Kit Role</name>
+        <titleid>0100F8A01D069046</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Judith Lancester</name>
+        <titleid>0100F8A01D069051</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hollow Core Voice: Roar Heaven's Lion, Barghorn</name>
+        <titleid>0100F8A01D069052</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Crystal Set (1)</name>
+        <titleid>0100F8A01D069064</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Crystal Set (2)</name>
+        <titleid>0100F8A01D069065</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Glimmerstone Set (3)</name>
+        <titleid>0100F8A01D069066</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Crystal Set (4)</name>
+        <titleid>0100F8A01D069067</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Crystal Set (5)</name>
+        <titleid>0100F8A01D069068</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U Material Kit (1)</name>
+        <titleid>0100F8A01D069069</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U substance kit (2)</name>
+        <titleid>0100F8A01D06906A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U Substance Kit (3)</name>
+        <titleid>0100F8A01D06906B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Set of U Substance (4)</name>
+        <titleid>0100F8A01D06906C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U substance kit (5)</name>
+        <titleid>0100F8A01D06906D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name> Warcraft Ingredient Kit (1) </name>
+        <titleid>0100F8A01D06906E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Warcraft Ingredient Kit (2)</name>
+        <titleid>0100F8A01D06906F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Warcraft Ingredient Kit (3)</name>
+        <titleid>0100F8A01D069070</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>High-Grade Recovery Medicine Kit (1)</name>
+        <titleid>0100F8A01D069073</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (2)</name>
+        <titleid>0100F8A01D069074</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Medicine Set (3)</name>
+        <titleid>0100F8A01D069075</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (4)</name>
+        <titleid>0100F8A01D069076</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (5)</name>
+        <titleid>0100F8A01D069077</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Powder Set (1)</name>
+        <titleid>0100F8A01D069078</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Powder Set (2)</name>
+        <titleid>0100F8A01D069079</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Powder Set (3)</name>
+        <titleid>0100F8A01D06907A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Capsule Set (1)</name>
+        <titleid>0100F8A01D06907D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Capsule Set (2)</name>
+        <titleid>0100F8A01D06907E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Capsule Kit (3)</name>
+        <titleid>0100F8A01D06907F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pomu Fruit Set (1)</name>
+        <titleid>0100F8A01D069082</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Pom Fruit Set (2)</name>
+        <titleid>0100F8A01D069083</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pom Fruit Set (3)</name>
+        <titleid>0100F8A01D069084</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pom Fruit Value Set (1)</name>
+        <titleid>0100F8A01D069087</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pomu Fruit Worthwhile Bundle (2)</name>
+        <titleid>0100F8A01D069088</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkle Pom-Pom Fruit Value Pack (3)</name>
+        <titleid>0100F8A01D069089</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (1)</name>
+        <titleid>0100F8A01D06908C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (2)</name>
+        <titleid>0100F8A01D06908D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (3)</name>
+        <titleid>0100F8A01D06908E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Battle Enhancement Pack B</name>
+        <titleid>0100F8A01D069092</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Battle Enhancement Pack C</name>
+        <titleid>0100F8A01D069093</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free trial kit Vol. 1</name>
+        <titleid>0100F8A01D069096</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Kit Vol. 2</name>
+        <titleid>0100F8A01D069097</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Set Vol. 3</name>
+        <titleid>0100F8A01D069098</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Succubus Outfit Bundle</name>
+        <titleid>010025A00DF2B002</titleid>
+        <version></version>
+        <publisher>H2 INTERACTIVE</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Magical Girl Styling Combination Pack</name>
+        <titleid>010025A00DF2B003</titleid>
+        <version></version>
+        <publisher>H2 INTERACTIVE</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Japanese Style Design Combination Pack</name>
+        <titleid>010025A00DF2B004</titleid>
+        <version></version>
+        <publisher>H2 INTERACTIVE</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Winning entries of the poster design competition</name>
+        <titleid>010033801EF3B006</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Three additional content sets</name>
+        <titleid>010033801EF3B005</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Anise's custom outfit "Z-1 Racing Queen Type B"</name>
+        <titleid>010033801EF3B007</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Elraine's Exclusive Outfit "Z-1 Racing Queen Type B" </name>
+        <titleid>010033801EF3B008</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Quiet Name Exclusive Outfit "Z-1 Racing Queen Type B"</name>
+        <titleid>010033801EF3B009</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fili's exclusive attire "Z-1 Racing Queen"</name>
+        <titleid>010033801EF3B00A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Z-1 Racing Queen," a costume exclusive to Lilliet</name>
+        <titleid>010033801EF3B00B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Judith's exclusive outfit "Z-1 Racing Queen Type B"</name>
+        <titleid>010033801EF3B00C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Celis' exclusive outfit "Z-1 Racing Queen"</name>
+        <titleid>010033801EF3B00D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Nadiya's exclusive outfit "Z-1 Racing Queen"</name>
+        <titleid>010033801EF3B00E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Ryan's Special Outfit "Z-1 Racing Queen Type B" </name>
+        <titleid>010033801EF3B00F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Fan-designed outfit "Suit style"</name>
+        <titleid>010033801EF3B010</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Aaron's special outfit "Suit style"</name>
+        <titleid>010033801EF3B011</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Cartel Exclusive Outfit "Suit Style"</name>
+        <titleid>010033801EF3B012</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rion exclusive outfit "Suit Style"</name>
+        <titleid>010033801EF3B013</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Kincaid's bespoke clothing "Suit style"</name>
+        <titleid>010033801EF3B014</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sven's outfit "Suit Style"</name>
+        <titleid>010033801EF3B015</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Colored Sunglasses Case Set</name>
+        <titleid>010033801EF3B016</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Eyeglass case set</name>
+        <titleid>010033801EF3B017</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Legendary Weapon Set</name>
+        <titleid>010033801EF3B018</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Back Decoration Prop Set</name>
+        <titleid>010033801EF3B019</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Lively Special Effects Set</name>
+        <titleid>010033801EF3B01A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hair Decoration Prop Set</name>
+        <titleid>010033801EF3B01B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Headwear Decoration Set</name>
+        <titleid>010033801EF3B01C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Special Flag Set</name>
+        <titleid>010033801EF3B01D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shame Force Banner Set</name>
+        <titleid>010033801EF3B01E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>SiN Mirror Line Script Board Set</name>
+        <titleid>010033801EF3B01F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hollow Core Voice [Instructor Kashim Al-Farad]</name>
+        <titleid>010033801EF3B020</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hollow Core Voice [Actress Nina Fenly]</name>
+        <titleid>010033801EF3B021</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hollow Core Voice [Guardian Knight Selis Autichia]</name>
+        <titleid>010033801EF3B022</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Holocore Voice [Towa Herschel Substitute Teacher]</name>
+        <titleid>010033801EF3B023</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Hollow Core Voice 【Mishi・SiN】</name>
+        <titleid>010033801EF3B024</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Trails of Flash I" Soundtrack</name>
+        <titleid>010033801EF3B025</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Trails of Cold Steel II" Soundtrack</name>
+        <titleid>010033801EF3B026</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Trails of Cold Steel III Original Soundtrack</name>
+        <titleid>010033801EF3B027</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Trails of Cold Steel IV" Soundtrack Set</name>
+        <titleid>010033801EF3B028</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>"Trails from Zero &amp; Trails to Azure" Soundtrack Set</name>
+        <titleid>010033801EF3B029</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Rearranged Selection Background Music Set</name>
+        <titleid>010033801EF3B02A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Collection of Vocal Music Background Tracks</name>
+        <titleid>010033801EF3B02B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Crystal Set (1)</name>
+        <titleid>010033801EF3B064</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Crystal Set (2)</name>
+        <titleid>010033801EF3B065</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Glimmerstone Set (3)</name>
+        <titleid>010033801EF3B066</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Crystal Set (4)</name>
+        <titleid>010033801EF3B067</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Crystal Set (5)</name>
+        <titleid>010033801EF3B068</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U Material Kit (1)</name>
+        <titleid>010033801EF3B069</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U substance kit (2)</name>
+        <titleid>010033801EF3B06A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U Material Set (3)</name>
+        <titleid>010033801EF3B06B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U Substance Kit (4)</name>
+        <titleid>010033801EF3B06C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>U substance kit (5)</name>
+        <titleid>010033801EF3B06D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name> Warcraft Ingredient Kit (1) </name>
+        <titleid>010033801EF3B06E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Warcraft Ingredient Kit (2)</name>
+        <titleid>010033801EF3B06F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Warcraft Ingredient Kit (3)</name>
+        <titleid>010033801EF3B070</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>High-Grade Recovery Medicine Kit (1)</name>
+        <titleid>010033801EF3B073</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (2)</name>
+        <titleid>010033801EF3B074</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Medicine Set (3)</name>
+        <titleid>010033801EF3B075</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (4)</name>
+        <titleid>010033801EF3B076</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Premium Recovery Potion Set (5)</name>
+        <titleid>010033801EF3B077</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Powder Set (1)</name>
+        <titleid>010033801EF3B078</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Powder Set (2)</name>
+        <titleid>010033801EF3B079</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Powder Set (3)</name>
+        <titleid>010033801EF3B07A</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Capsule Set (1)</name>
+        <titleid>010033801EF3B07D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Revival Capsule Set (2)</name>
+        <titleid>010033801EF3B07E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Soul Return Capsule Kit (3)</name>
+        <titleid>010033801EF3B07F</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pomu Fruit Set (1)</name>
+        <titleid>010033801EF3B082</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Shining Pom Fruit Set (2)</name>
+        <titleid>010033801EF3B083</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pom Fruit Set (3)</name>
+        <titleid>010033801EF3B084</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pom Fruit Value Set (1)</name>
+        <titleid>010033801EF3B087</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkling Pomu Fruit Worthwhile Bundle (2)</name>
+        <titleid>010033801EF3B088</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Sparkle Pom-Pom Fruit Value Pack (3)</name>
+        <titleid>010033801EF3B089</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (1)</name>
+        <titleid>010033801EF3B08C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (2)</name>
+        <titleid>010033801EF3B08D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Dewdrop Set (3)</name>
+        <titleid>010033801EF3B08E</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Li's Spirit Medicine Set (1)</name>
+        <titleid>010033801EF3B091</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Li's Spirit Medicine Set (2)</name>
+        <titleid>010033801EF3B092</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Li Zhi Lingyao Set (3)</name>
+        <titleid>010033801EF3B093</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>SiN Combat Enhancement Pack A</name>
+        <titleid>010033801EF3B096</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>SiN Combat Enhancement Pack B</name>
+        <titleid>010033801EF3B097</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>SiN・Combat Enhancement Pack C</name>
+        <titleid>010033801EF3B098</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free trial kit Vol. 1</name>
+        <titleid>010033801EF3B09B</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Kit Vol. 2</name>
+        <titleid>010033801EF3B09C</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Free Trial Set Vol. 3</name>
+        <titleid>010033801EF3B09D</titleid>
+        <version></version>
+        <publisher>Clouded Leopard Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Classic Mode II: Dominic's Curse</name>
+        <titleid>010025A00DF2B005</titleid>
+        <version></version>
+        <publisher>H2 INTERACTIVE</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Deep Summer Time!  Summer Vacation of the 20th Century - Additional Download Content: Sunset Island &amp; Radio</name>
+        <titleid>010087901ED05001</titleid>
+        <version></version>
+        <publisher>Spike Chunsoft</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Touhou New World Story &amp; Character Expansion Pack "Reverie's Rhapsody"</name>
+        <titleid>010010601983B001</titleid>
+        <version></version>
+        <publisher>Marvelous Entertainment</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>Beyblade Burst: Xone Digital Bey Booster Vol. 1</name>
+        <titleid>0100FC90205FF002</titleid>
+        <version></version>
+        <publisher>FURYU Corporation</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+    <release>
+        <name>The Smurfs - Dreams - Smurf Costume</name>
+        <titleid>01008E401E6D1002</titleid>
+        <version></version>
+        <publisher>Microids</publisher>
+        <region>HK</region>
+        <languages>zh</languages>
+    </release>
+</releases>
